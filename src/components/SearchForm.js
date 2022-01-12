@@ -20,7 +20,7 @@ const SearchForm = () => {
     <section className="section search">
       <form className="search-form" onSubmit={handleSubmit}>
         <div className="form-control">
-          <label htmlFor="name">search your favorite cocktail</label>
+          <label htmlFor="name">Get Lit: Enter a Drink 🍹</label>
           <input
             type="text"
             id="name"
